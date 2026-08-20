@@ -80,3 +80,10 @@ Intervention
 Risk Trajectory Monitoring
      ↓
 Updated Risk Assessment
+
+
+## Team & Contributors
+
+| Name | GitHub | Role |
+|---|---|---|
+| Ankita Shanbhag | @ankita01209 | Project Lead & Developer |
