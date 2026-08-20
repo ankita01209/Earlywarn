@@ -80,7 +80,7 @@ Intervention
 Risk Trajectory Monitoring
      ↓
 Updated Risk Assessment
-
+```
 
 ## Team & Contributors
 
